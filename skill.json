@@ -1,0 +1,22 @@
+{
+  "name": "genpark-personal-agent-pulmonary-dynamic-airway-closing-pressure-pel-skill",
+  "version": "1.0.0",
+  "description": "Calculates pulmonary dynamic airway closing pressure (P_cl), static elastic recoil P_st(L), and transmural pressure gradient to evaluate small airway collapse and flow limitation.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "pulmonary",
+    "airway-mechanics",
+    "closing-pressure",
+    "elastic-recoil",
+    "flow-limitation",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
